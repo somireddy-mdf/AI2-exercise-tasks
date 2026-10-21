@@ -1,2 +1,3 @@
 this is about me
 i need to learn about vs code
+this changes was done in github not in the vs code or locally
